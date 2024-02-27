@@ -49,6 +49,7 @@ void scanWifi()
     }
   }
   Serial.println("");
+
   // Wait a bit before scanning again
   delay(5000);
 }
